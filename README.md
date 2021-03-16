@@ -1,6 +1,8 @@
 # spices
 
-apple
-banana
-kiwi
-orange
+picture
+
+* apple
+* banana
+* kiwi
+* orange

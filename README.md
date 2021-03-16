@@ -1,2 +1,6 @@
 # spices
-Some test repository
+
+apple
+banana
+kiwi
+orange
